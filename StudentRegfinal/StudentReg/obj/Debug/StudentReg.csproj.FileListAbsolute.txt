@@ -1,0 +1,6 @@
+C:\Users\franc_000\Documents\Visual Studio 2015\Projects\StudentRegfinal\StudentReg\bin\Debug\StudentReg.exe.config
+C:\Users\franc_000\Documents\Visual Studio 2015\Projects\StudentRegfinal\StudentReg\obj\Debug\StudentReg.exe
+C:\Users\franc_000\Documents\Visual Studio 2015\Projects\StudentRegfinal\StudentReg\obj\Debug\StudentReg.pdb
+C:\Users\franc_000\Documents\Visual Studio 2015\Projects\StudentRegfinal\StudentReg\bin\Debug\StudentReg.exe
+C:\Users\franc_000\Documents\Visual Studio 2015\Projects\StudentRegfinal\StudentReg\bin\Debug\StudentReg.pdb
+C:\Users\franc_000\Documents\Visual Studio 2015\Projects\StudentRegfinal\StudentReg\obj\Debug\StudentReg.csprojResolveAssemblyReference.cache
