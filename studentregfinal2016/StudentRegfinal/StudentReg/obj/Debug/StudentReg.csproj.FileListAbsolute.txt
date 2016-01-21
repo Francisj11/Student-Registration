@@ -1,0 +1,30 @@
+c:\users\franc_000\documents\visual studio 2015\Projects\StudentReg\StudentReg\bin\Debug\StudentReg.exe.config
+c:\users\franc_000\documents\visual studio 2015\Projects\StudentReg\StudentReg\bin\Debug\StudentReg.exe
+c:\users\franc_000\documents\visual studio 2015\Projects\StudentReg\StudentReg\bin\Debug\StudentReg.pdb
+c:\users\franc_000\documents\visual studio 2015\Projects\StudentReg\StudentReg\obj\Debug\StudentReg.exe
+c:\users\franc_000\documents\visual studio 2015\Projects\StudentReg\StudentReg\obj\Debug\StudentReg.pdb
+c:\users\franc_000\documents\visual studio 2015\Projects\StudentReg\StudentReg\obj\Debug\StudentReg.csprojResolveAssemblyReference.cache
+G:\StudentReg\StudentReg\bin\Debug\StudentReg.exe.config
+G:\StudentReg\StudentReg\obj\Debug\StudentReg.exe
+G:\StudentReg\StudentReg\obj\Debug\StudentReg.pdb
+G:\StudentReg\StudentReg\obj\Debug\StudentReg.csprojResolveAssemblyReference.cache
+G:\StudentReg\StudentReg\bin\Debug\StudentReg.exe
+G:\StudentReg\StudentReg\bin\Debug\StudentReg.pdb
+C:\Users\franc_000\Documents\College\StudentReg\StudentReg\bin\Debug\StudentReg.exe.config
+C:\Users\franc_000\Documents\College\StudentReg\StudentReg\obj\Debug\StudentReg.exe
+C:\Users\franc_000\Documents\College\StudentReg\StudentReg\obj\Debug\StudentReg.pdb
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\bin\Debug\StudentReg.exe.config
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.exe
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.pdb
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\bin\Debug\StudentReg.exe
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\bin\Debug\StudentReg.pdb
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.csprojResolveAssemblyReference.cache
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.Form1.resources
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.Properties.Resources.resources
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.csproj.GenerateResource.Cache
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.FormRegister.resources
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\bin\Debug\studentregdb.accdb
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.FormList.resources
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.FormEditLookup.resources
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.FormEdit.resources
+C:\Users\franc_000\Documents\College\StudentRegfinal\StudentReg\obj\Debug\StudentReg.FormRemove.resources
